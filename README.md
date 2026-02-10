@@ -14,7 +14,7 @@ Ip Gen Updated
 
 <p>
   
-  - Developed in <strong>Python</strong>, by <a href="https://guns.lol/loxy0dev">Loxy0dev</a><br>
+  - Developed in <strong>Python</strong>, by <a href="https://guns.lol/loxy0dev">Loxy0dev / Finni-Developing</a><br>
   - Tool in <strong>English</strong>.<br>
   - Available on <strong>Windows</strong> and <strong>Linux</strong>.<br>
   - <strong>No malware</strong> or <strong>backdoor</strong>.<br>
@@ -32,7 +32,7 @@ Ip Gen Updated
   - RedTiger Tools has been developed solely for educational purposes.<br>
   - This project has been created with good intentions and is intended for personal use only.<br>
   - By choosing to use RedTiger, you acknowledge and accept full responsibility for any consequences that may result from your actions.<br>
-  - All scripts in the "<a href="https://github.com/loxy0dev/RedTiger-Tools/tree/main/Program/FileDetectedByAntivirus">Program/FileDetectedByAntivirus</a>" folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>.
+  - All scripts in the "<a href="https://github.com/Finni-Developing/Nexo-Tools/Program/FileDetectedByAntivirus">Program/FileDetectedByAntivirus</a>" folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>.
 <br><br>
 </p>
 
